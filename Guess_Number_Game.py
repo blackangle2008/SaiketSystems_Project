@@ -1,12 +1,3 @@
-# ==========================================
-# Internship Task: Guess the Number Game
-# Developed By: [Your Name]
-# Description:
-# A simple number guessing game where
-# the computer generates a random number
-# and the user tries to guess it.
-# ==========================================
-
 import random
 
 # Generate random number between 1 and 100
